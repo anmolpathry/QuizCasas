@@ -5,7 +5,7 @@
   "proxies": [
     {
       "path": "/v1",
-      "proxyUrl": "https://www.vivanuncios.com.mx/api/pin-data?url=/s-renta-inmuebles/guadalajara-y-zona-metro"
+      "proxyUrl": "https://www.vivanuncios.com.mx/api"
     }
   ]
 }
